@@ -1,0 +1,13 @@
+{
+  "name": "@company/app",
+  "version": "0.0.0",
+  "keywords": [],
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "@company/common": "^0.0.0",
+    "@company/shared": "^0.0.0"
+  }
+}
